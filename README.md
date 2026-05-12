@@ -79,7 +79,7 @@ My core work is architecting **Azure-native ELT pipelines** (Databricks, PySpark
 ## 💼 Experience
 
 ### Cloud Data Engineer / Business Analyst — Mercedes-Benz South Africa
-**Feb 2024 – May 2025 | Manufacturing Reporting Services (MRS) · MO360 Data Platform**
+**Feb 2024 – July 2025 | Manufacturing Reporting Services (MRS) · MO360 Data Platform**
 
 - Co-engineered the **MO360 global manufacturing data platform** (strategic Microsoft partnership), unifying production data across **30+ plants** worldwide to support a 20% production efficiency improvement target
 - **Led ETL → ELT architectural migration**: consolidated Azure Functions + ADF batch upserts into a single PySpark Structured Streaming job on Databricks — reducing pipeline cloud cost contribution from ~80% to **30–40%** and achieving near real-time data freshness with exactly-once processing
